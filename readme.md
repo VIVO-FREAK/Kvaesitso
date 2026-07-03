@@ -1,3 +1,6 @@
+# NOTICE:
+> THIS FORK IS CLONED AND OPTIMIZED FOR THE VIVO Y19 ONLY. DON'T USE IT ON ANOTHER DEVICE WITHOUT THE SAME CHIP OR ARCHITECTURE.
+
 # Kvaesitso
 
 <img src="https://raw.githubusercontent.com/MM2-0/Kvaesitso/main/assets/icons/ic_launcher.png" width="128">
